@@ -199,7 +199,7 @@ LevelUp takes the security of its users and the safety of their information very
 License (Apache 2.0)
 ---
 ```
-Copyright 2016 SCVNGR, Inc. d/b/a LevelUp
+Copyright 2019 SCVNGR, Inc. d/b/a LevelUp
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -215,3 +215,4 @@ limitations under the License.
 ```
 
 **Note:** This solution uses the [License Header Manager](https://visualstudiogallery.msdn.microsoft.com/5647a099-77c9-4a49-91c3-94001828e99e) extension for Visual Studio to manage and update the license text at the top of each source file, instructions for which are documented [here](https://github.com/rubicon-oss/LicenseHeaderManager/wiki).
+
